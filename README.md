@@ -1,3 +1,7 @@
+Excited to share my Data Science projects completed during my internship at Outrix!
+(Movie Recommender System.)
+
+
 **
 Note:
 
